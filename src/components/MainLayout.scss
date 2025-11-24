@@ -1,0 +1,15 @@
+.app-layout {
+    min-height: 100vh;
+}
+
+.app-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.app-header__right {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+}

@@ -73,7 +73,7 @@ export default function MainLayout() {
                     <div className="app-header__title">
                         <Link to="/" style={{ display: 'flex', alignItems: 'center', gap: 8 }}>
                             <CheckSquareOutlined style={{ color: '#1677ff', fontSize: 20 }} />
-                            <span>Todo App</span>
+                            <span>TodoList App</span>
                         </Link>
                     </div>
 

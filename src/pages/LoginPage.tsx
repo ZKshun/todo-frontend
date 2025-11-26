@@ -37,7 +37,7 @@ export default function LoginPage() {
                 <Title level={3} style={{ textAlign: 'center', marginBottom: 24 }}>
                     登录
                 </Title>
-                <Form layout="vertical" onFinish={onFinish} initialValues={{ username: 'alice' }}>
+                <Form layout="vertical" onFinish={onFinish} initialValues={{ username: 'admin' }}>
                     <Form.Item
                         label="用户名"
                         name="username"
